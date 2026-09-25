@@ -1,4 +1,4 @@
-# AFSubsample
+# Argumentation Framework Subsampling and Analysis
 
 Research tools for **subsampling abstract argumentation frameworks** and analyzing the resulting graphs.
 
